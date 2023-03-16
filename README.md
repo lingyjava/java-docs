@@ -20,6 +20,7 @@
 - [1·Object](/docs/api/1·Object.md)
 - [2·日期时间对象](/docs/api/2·日期时间对象.md)
 - [3·Math](/docs/api/3·Math.md)
+- [4·String](/docs/api/4·String.md)
 
 ## 并发
 
