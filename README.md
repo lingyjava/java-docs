@@ -1,15 +1,5 @@
 # Java 文档
 
-- [Java 文档](#java-文档)
-  - [基础](#基础)
-  - [并发](#并发)
-  - [集合](#集合)
-  - [数据结构](#数据结构)
-  - [web](#web)
-  - [IO](#io)
-  - [jvm](#jvm)
-  - [API](#api)
-
 ## 基础
 - [1·Java简介](docs/base/1·Java简介.md)
 - [2·Java语言元素](docs/base/2·Java语言元素.md)
@@ -17,7 +7,7 @@
 - [4·Java包装类](docs/base/4·Java包装类.md)
 
 ## 并发
-
+- [1·并发理论基础](/docs/concurrent/1·并发理论基础.md)
 
 ## 集合
 - [1·ArrayList](/docs/collection/1·ArrayList.md)
