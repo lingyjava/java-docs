@@ -10,7 +10,10 @@
 - [1·并发理论基础](/docs/concurrent/1·并发理论基础.md)
 
 ## 集合
-- [1·ArrayList](/docs/collection/1·ArrayList.md)
+- [1·List](/docs/collection/1·List.md)
+- [2·Set](/docs/collection/2·Set.md)
+- [3·Map](/docs/collection/3·Map.md)
+- [4·Queue](/docs/collection/4·Queue.md)
 
 ## 数据结构
 - [1·JSON](/docs/ds/1·JSON.md)
