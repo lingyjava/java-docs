@@ -63,6 +63,7 @@
 ### Spring Boot
 - [1·SpringBoot简介](/docs/frame/spring/boot/1·SpringBoot简介.md)
 - [2·SpringBoot常用功能](/docs/frame/spring/boot/2·SpringBoot常用功能.md)
+- [3·RESTful](/docs/frame/spring/boot/3·RESTful.md)
 
 ### Mybatis
 - [1·Mybatis简介](/docs/frame/mybatis/1·Mybatis简介.md)
