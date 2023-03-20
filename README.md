@@ -47,6 +47,9 @@
 ## jvm
 - [1·jvm内存模型](/docs/jvm/1·jvm内存模型.md)
 
+## 工具类
+- [1·分页工具类](/docs/tools/1·分页工具类.md)
+
 ## API
 - [1·Object](/docs/api/1·Object.md)
 - [2·日期时间对象](/docs/api/2·日期时间对象.md)
