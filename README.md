@@ -5,6 +5,7 @@
 - [2·Java语言元素](docs/base/2·Java语言元素.md)
 - [3·Java数组](docs/base/3·Java数组.md)
 - [4·Java包装类](docs/base/4·Java包装类.md)
+- [5·JDK8新特性](docs/base/5·JDK8新特性.md)
 
 ## 并发
 - [1·并发理论基础](/docs/concurrent/1·并发理论基础.md)
