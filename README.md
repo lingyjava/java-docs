@@ -31,6 +31,11 @@
 
 ## web
 - [1·JDBC](/docs/web/1·JDBC.md)
+- [2·Servlet](/docs/web/2·Servlet.md)
+- [3·Jsp](/docs/web/3·Jsp.md)
+- [4·EL表达式](/docs/web/4·EL表达式.md)
+- [5·JSTL](/docs/web/5·JSTL.md)
+- [6·Filter](/docs/web/6·Filter.md)
 
 ## IO
 - [1·IO流常用类](docs/io/1·IO流常用类.md)
