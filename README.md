@@ -8,6 +8,7 @@
 
 ## 并发
 - [1·并发理论基础](/docs/concurrent/1·并发理论基础.md)
+- [2·线程理论基础](/docs/concurrent/2·线程理论基础.md)
 
 ## 集合
 - [1·List](/docs/collection/1·List.md)
