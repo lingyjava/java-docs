@@ -36,6 +36,9 @@
 - [4·EL表达式](/docs/web/4·EL表达式.md)
 - [5·JSTL](/docs/web/5·JSTL.md)
 - [6·Filter](/docs/web/6·Filter.md)
+- [7·Listener](/docs/web/7·Listener.md)
+- [8·FreeMarker](/docs/web/8·FreeMarker.md)
+- [9·CORS](/docs/web/9·CORS.md)
 
 ## IO
 - [1·IO流常用类](docs/io/1·IO流常用类.md)
