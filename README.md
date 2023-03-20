@@ -61,8 +61,8 @@
 - [6·SSM框架整合](/docs/frame/spring/framework/6·SSM框架整合.md)
 
 ### Spring Boot
-
-### Spring Cloud
+- [1·SpringBoot简介](/docs/frame/spring/boot/1·SpringBoot简介.md)
+- [2·SpringBoot常用功能](/docs/frame/spring/boot/2·SpringBoot常用功能.md)
 
 ### Mybatis
 - [1·Mybatis简介](/docs/frame/mybatis/1·Mybatis简介.md)
