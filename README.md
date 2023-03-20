@@ -58,6 +58,7 @@
 - [3·Spring-AOP](/docs/frame/spring/framework/3·Spring-AOP.md)
 - [4·Spring-MVC](/docs/frame/spring/framework/4·Spring-MVC.md)
 - [5·Spring事务管理](/docs/frame/spring/framework/5·Spring事务管理.md)
+- [6·SSM框架整合](/docs/frame/spring/framework/6·SSM框架整合.md)
 
 ### Spring Boot
 
