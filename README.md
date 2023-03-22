@@ -83,6 +83,14 @@
 - [8·Feign](/docs/frame/microservice/8·Feign.md)
 - [9·Hystrix](/docs/frame/microservice/9·Hystrix.md)
 - [10·分布式事务](/docs/frame/microservice/10·分布式事务.md)
+- [11·Nginx](/docs/frame/microservice/11·Nginx.md)
+
+## 开发
+- [1·IDE](/docs/develop/1·IDE.md)
+- [2·版本控制](/docs/develop/2·版本控制.md)
+
+## 容器
+- [1·Docker](/docs/container/1·Docker.md)
 
 ## API
 - [1·Object](/docs/api/1·Object.md)
