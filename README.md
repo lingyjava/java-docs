@@ -88,6 +88,8 @@
 ## 开发
 - [1·IDE](/docs/develop/1·IDE.md)
 - [2·版本控制](/docs/develop/2·版本控制.md)
+- [3·Maven](/docs/develop/3·Maven.md)
+- [4·Mac](/docs/develop/4·Mac.md)
 
 ## 容器
 - [1·Docker](/docs/container/1·Docker.md)
