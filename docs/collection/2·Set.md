@@ -24,7 +24,7 @@ HashSet本质还是在内部维护一个HashMap对象，将所有的数据都交
 特性：
 - 元素无序排列。
 - 元素不可重复。依赖两个方法来保证元素唯一性：`hashCode()`和`equals()`.
-- 可以存null值，但只能存在一个。
+- 可以存null值。底层是HashMap，可以有1个为null的元素。
 - 没有实现同步，线程不安全。
 
 ## LinkedHashSet
@@ -35,7 +35,7 @@ LinkedHashSet是HashSet的子类，是对LinkedHashMap包装了一层。
 特性：
 - 元素有序排列，底层维护了一个数组+双向链表，根据元素的hashCode值来决定元素的存储位置，同时使用链表维护元素的次序, 使元素看起来是以插入顺序保存的。
 - 元素不可重复，基于哈希表实现元素唯一。
-- 可以存储null值。
+- 可以存储null值。LinkHashSet底层是LinkedHashMap，允许存在一个为null的元素
 - 线程不安全
 
 ## TreeSet
@@ -45,7 +45,7 @@ add、remove、search等操作时间复杂度为O(log n)，效率不如`HashSet`
 特性：
 - 元素有序排列，根据树结构实现有序性，不按输入顺序排列，默认是按自然顺序排列，也可以自定义排序规则，根据比较器确认排序顺序。
 - 元素不可重复，根据比较的返回值是否是0来保证元素唯一性。
-- JDK8后元素不允许设置null值。
+- JDK8后元素不允许设置null值。TreeSet不能有key为null的元素，会报NullPointerException.
 - 线程不安全。
 
 ### 自定义排序规则
