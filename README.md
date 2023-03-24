@@ -30,6 +30,7 @@
 
 ## 数据结构
 - [1·JSON](/docs/ds/1·JSON.md)
+- [2·哈希表](/docs/ds/2·哈希表.md)
 
 ## web
 - [1·JDBC](/docs/web/1·JDBC.md)
